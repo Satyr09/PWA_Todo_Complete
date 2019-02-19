@@ -1,0 +1,21 @@
+{
+  "name": "pwa-devfeb-session",
+  "version": "1.0.0",
+  "description": "A simple PWA todo like app",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "devfeb"
+  ],
+  "author": "Daipayan Mukherjee",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
